@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# todo, a real makefile
+# changed todo, a real makefile
 
 files="rtl_ais.c convenience.c"
 flags="-Wall -O2"
